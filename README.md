@@ -1,5 +1,8 @@
 # bvhMotionIK
  This program uses IK to compute each joint's angle in a given BVH file and a position file with all joint positions in each frame to generate a new BVH file with all frames stored in it.
+ 
+![guide](img/process.png)
+
 ## How to Compile
  1. Use the command "git clone [GitHub URL]" to clone and download the project from GitHub to your computer.
  2. Run "setup.bat" to generate an "IK_processer.sln" file.
