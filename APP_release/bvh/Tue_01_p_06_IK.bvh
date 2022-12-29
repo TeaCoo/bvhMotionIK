@@ -1,0 +1,135 @@
+HIERARCHY
+ROOT joint_0
+{
+	OFFSET 0.000000 0.000000 0.000000
+	CHANNELS 6 Xposition Yposition Zposition Zrotation Yrotation Xrotation 
+	JOINT joint_1
+	{
+		OFFSET 11.612000 -0.419000 106.198000
+		CHANNELS 3 Zrotation Yrotation Xrotation
+		JOINT joint_2
+		{
+			OFFSET -1.708000 -1.022000 97.564090
+			CHANNELS 3 Zrotation Yrotation Xrotation
+			JOINT joint_3
+			{
+				OFFSET -4.121000 -1.538000 97.375000
+				CHANNELS 3 Zrotation Yrotation Xrotation
+				JOINT joint_4
+				{
+					OFFSET 5.442000 -2.123000 132.795900
+					CHANNELS 3 Zrotation Yrotation Xrotation
+					JOINT joint_5
+					{
+						OFFSET 21.935000 0.195000 82.975100
+						CHANNELS 3 Zrotation Yrotation Xrotation
+						End Site
+						{
+							OFFSET 0.000000 0.000000 0.000000
+						}
+					}
+				}
+				JOINT joint_6
+				{
+					OFFSET 4.262000 -30.048000 73.899900
+					CHANNELS 3 Zrotation Yrotation Xrotation
+					JOINT joint_7
+					{
+						OFFSET 9.731000 -136.810010 -21.963010
+						CHANNELS 3 Zrotation Yrotation Xrotation
+						JOINT joint_8
+						{
+							OFFSET 33.360000 -35.709000 -267.597900
+							CHANNELS 3 Zrotation Yrotation Xrotation
+							JOINT joint_9
+							{
+								OFFSET 36.156000 -29.759000 -240.558040
+								CHANNELS 3 Zrotation Yrotation Xrotation
+								End Site
+								{
+									OFFSET 0.000000 0.000000 0.000000
+								}
+							}
+						}
+					}
+				}
+				JOINT joint_10
+				{
+					OFFSET 2.027000 27.734000 74.914920
+					CHANNELS 3 Zrotation Yrotation Xrotation
+					JOINT joint_11
+					{
+						OFFSET -5.183000 136.784000 -23.604980
+						CHANNELS 3 Zrotation Yrotation Xrotation
+						JOINT joint_12
+						{
+							OFFSET 29.806000 37.229000 -267.809940
+							CHANNELS 3 Zrotation Yrotation Xrotation
+							JOINT joint_13
+							{
+								OFFSET 36.890000 46.524990 -237.772030
+								CHANNELS 3 Zrotation Yrotation Xrotation
+								End Site
+								{
+									OFFSET 0.000000 0.000000 0.000000
+								}
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+	JOINT joint_14
+	{
+		OFFSET -7.290000 -102.873990 -124.314940
+		CHANNELS 3 Zrotation Yrotation Xrotation
+		JOINT joint_15
+		{
+			OFFSET -15.466000 -19.909010 -438.533020
+			CHANNELS 3 Zrotation Yrotation Xrotation
+			JOINT joint_16
+			{
+				OFFSET -26.899000 -18.922000 -464.797000
+				CHANNELS 3 Zrotation Yrotation Xrotation
+				JOINT joint_17
+				{
+					OFFSET 179.329000 -12.011000 -84.174000
+					CHANNELS 3 Zrotation Yrotation Xrotation
+					End Site
+					{
+						OFFSET 0.000000 0.000000 0.000000
+					}
+				}
+			}
+		}
+	}
+	JOINT joint_18
+	{
+		OFFSET -6.225000 101.546000 -125.479980
+		CHANNELS 3 Zrotation Yrotation Xrotation
+		JOINT joint_19
+		{
+			OFFSET -13.973000 7.996000 -438.963010
+			CHANNELS 3 Zrotation Yrotation Xrotation
+			JOINT joint_20
+			{
+				OFFSET -44.294000 5.716000 -463.813970
+				CHANNELS 3 Zrotation Yrotation Xrotation
+				JOINT joint_21
+				{
+					OFFSET 178.505000 -4.689000 -85.139000
+					CHANNELS 3 Zrotation Yrotation Xrotation
+					End Site
+					{
+						OFFSET 0.000000 0.000000 0.000000
+					}
+				}
+			}
+		}
+	}
+}
+MOTION
+Frames: 1
+Frame Time: 0.016667
+0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 
